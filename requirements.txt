@@ -8,7 +8,7 @@ ecdsa==0.11
 futures==2.1.6
 gevent==1.0.1
 greenlet==0.4.6
-gunicorn==18.0
+gunicorn==19.4.0
 newrelic==2.18.1.15
 numpy==1.7.0
 paramiko==1.12.3
